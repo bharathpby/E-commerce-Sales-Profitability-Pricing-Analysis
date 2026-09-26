@@ -1,7 +1,5 @@
 # E-commerce-Sales-Profitability-Pricing-Analysis
 E-commerce sales, profitability and pricing analysis using MySQL and Power BI.
-# E-Commerce Sales, Profitability & Pricing Analysis
-
 ## Project Overview
 
 This project analyzes e-commerce sales data to understand sales performance, product profitability, pricing behavior, customer performance, and store and regional performance.
